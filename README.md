@@ -46,21 +46,4 @@ Date: This column indicates the specific calendar day for which the financial an
 # About
 Analyse Financial Market Data of AI companies with Python
 
-youtu.be/WmJYHz_qn5s
-Topics
-python data-science machine-learning google meta ai data-visualization artificial-intelligence gemini openai data-analytics data-analysis llama financial-analysis big-data-analytics pandas-python matplotlib-python market-data-analysis chatgpt
-Resources
- Readme
- Activity
-Stars
- 1 star
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Languages
-Jupyter Notebook
-100.0%
-Footer
-© 2025 Git
+
